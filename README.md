@@ -2,7 +2,9 @@
 
 <div style="display: flex;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ribeiro-le&show_icons=true&theme=highcontrast" height="150em">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Ribeiro-le&show_icons=true&theme=highcontrast" height="130em">
+</div>
  
 
 <div style="margin-left: 5px">
@@ -50,5 +52,4 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify">
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="youtubemusic">
 </div>
-
 
