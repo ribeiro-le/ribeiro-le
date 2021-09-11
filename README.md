@@ -1,6 +1,18 @@
-## Olá! Eu sou Leandro Ribeiro 🖐️<br/>
+## Olá! Eu sou Leandro Ribeiro, toca ai 🖐️👊<br/>
 
-![Leandro R GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribeiro-le&show_icons=true&theme=highcontrast)
+<div style="display: flex;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ribeiro-le&show_icons=true&theme=highcontrast" height="150em">
+ 
+
+<div style="margin-left: 5px">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro-le&layout=compact&theme=highcontrast" >
+
+
+</div>
+
+</div><br />
 
 ###  Technologies I use in my day 🚀
 
