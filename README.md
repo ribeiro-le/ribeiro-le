@@ -15,6 +15,7 @@ justify-content: center;">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" align="center"></img>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" align="center"></img>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.JS" align="center"></img>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"alt="ReactNative" align="center"></img>
 </div>
 
 ### Social Networks 🌐
@@ -34,9 +35,11 @@ justify-content: center;">
 ### Games 🕹️
 
 <div style="display:inline-block"> 
+ <img src="https://img.shields.io/badge/Vs_CODE-000000?style=for-the-badge&=vscode&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam">
 <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
+ 
 </div>
 
 ###  Músicas
