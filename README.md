@@ -21,7 +21,7 @@ justify-content: center;">
 ### Social Networks 🌐
 <div style="display: inline-block">
 
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_leeribeiro/)
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__leeribeiro/)
 </div>
 
 ### Desktop 🖥️
